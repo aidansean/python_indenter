@@ -1,0 +1,12 @@
+[mathjax]
+
+This project was made rather quickly to allow the user to quickly indent large python files.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/pixeler">Live page</a>
+<a href="https://github.com/aidansean/python_indenter">GitHub repository</a>
+
+<h3>Overview</h3>
+
+The user specifies the input file, output file, start and end lines, type of indentation, and number of characters to indent.  The script fills in missing details if necessary (eg indenting to the end of the file if no end is specified.)
